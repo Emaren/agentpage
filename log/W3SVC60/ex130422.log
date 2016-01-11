@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-22 22:17:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-22 22:17:45 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.214 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-04-22 22:17:45 W3SVC60 208.123.218.206 GET /images/myrealtornow_gp_title.png - 80 - 66.249.73.214 Googlebot-Image/1.0 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-22 22:51:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-22 22:51:52 W3SVC60 208.123.218.206 GET /login.php - 80 - 178.33.178.15 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0 200 0 0
+2013-04-22 22:51:54 W3SVC60 208.123.218.206 GET /register.php - 80 - 178.33.178.15 Mozilla/5.0+(Windows+NT+6.1;+rv:6.0)+Gecko/20110814+Firefox/6.0 200 0 0
+2013-04-22 22:51:56 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 178.33.178.15 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Win64;+x64;+Trident/5.0;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET+CLR+2.0.50727;+Media+Center+PC+6.0) 200 0 0
+2013-04-22 23:06:29 W3SVC60 208.123.218.206 GET /images/register_title.png - 80 - 66.249.73.214 Googlebot-Image/1.0 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-22 23:23:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-22 23:23:04 W3SVC60 208.123.218.206 GET /images/register_title.png - 80 - 66.249.73.214 Googlebot-Image/1.0 304 0 0

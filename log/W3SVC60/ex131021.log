@@ -1,0 +1,14 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-10-21 05:00:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-10-21 05:00:32 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 38.99.82.192 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 404 0 2
+2013-10-21 05:00:32 W3SVC60 208.123.218.206 GET /login.php - 80 - 38.99.82.192 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 200 0 0
+2013-10-21 05:10:50 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 38.99.82.206 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 404 0 2
+2013-10-21 05:10:50 W3SVC60 208.123.218.206 GET /login.php - 80 - 38.99.82.206 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-10-21 06:36:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-10-21 06:36:36 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 38.99.82.192 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 404 0 2
+2013-10-21 06:36:38 W3SVC60 208.123.218.206 GET /register.php - 80 - 38.99.82.192 Mozilla/4.0+(compatible;+MSIE+7.0b;+Windows+NT+6.0) 200 0 0

@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-04-14 23:10:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-04-14 23:10:00 W3SVC60 208.123.218.206 GET / - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 403 14 5
+2011-04-14 23:10:00 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 404 0 2
+2011-04-14 23:10:00 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 404 0 2
+2011-04-14 23:10:03 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 404 0 2
+2011-04-14 23:20:53 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 404 0 64
+2011-04-14 23:21:06 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 70.74.161.26 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.16)+Gecko/20110319+Firefox/3.6.16 404 0 2

@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-11-20 12:38:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-11-20 12:38:48 W3SVC60 208.123.218.206 GET /config.bak.php - 80 - 193.169.188.107 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:24.0)+Gecko/20100101+Firefox/24.0 404 0 0

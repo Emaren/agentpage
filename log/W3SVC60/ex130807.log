@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-08-07 22:21:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-08-07 22:21:45 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 69.58.178.58 BlackBerry9000/4.6.0.167+Profile/MIDP-2.0+Configuration/CLDC-1.1+VendorID/102+ips-agent 404 0 2
+2013-08-07 22:21:47 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.58.178.58 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+2013-08-07 22:21:48 W3SVC60 208.123.218.206 GET /register.php - 80 - 69.58.178.58 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0

@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-30 01:37:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-30 01:37:53 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.66.116 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-04-30 01:37:54 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.66.106 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-30 08:51:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-30 08:51:10 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 109.169.29.30 Mozilla/5.0+(compatible;+aiHitBot/2.8;++http://endb-consolidated.aihit.com/) 404 0 2
+2014-04-30 08:51:12 W3SVC60 208.123.218.206 GET /login.php - 80 - 109.169.29.30 Mozilla/5.0+(compatible;+aiHitBot/2.8;++http://endb-consolidated.aihit.com/) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-30 20:15:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-30 20:15:42 W3SVC60 208.123.218.206 GET /admin.php - 80 - 188.190.99.79 Opera/9.80+(Windows+NT+6.1;+U;+ru)+Presto/2.8.131+Version/11.10 404 0 0
+2014-04-30 20:15:44 W3SVC60 208.123.218.206 GET /administrator/index.php - 80 - 188.190.99.79 Opera/9.80+(Windows+NT+6.1;+U;+ru)+Presto/2.8.131+Version/11.10 404 0 0
+2014-04-30 20:15:44 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 188.190.99.79 Opera/9.80+(Windows+NT+6.1;+U;+ru)+Presto/2.8.131+Version/11.10 404 0 0

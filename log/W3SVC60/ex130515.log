@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-05-15 12:59:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-05-15 12:59:16 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.202.161.46 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.8)+Gecko/20100202+Firefox/3.5.8+(+.NET+CLR+3.5.30729) 200 0 0
+2013-05-15 12:59:22 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.202.161.41 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.8)+Gecko/20100202+Firefox/3.5.8+(+.NET+CLR+3.5.30729) 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-05-15 19:04:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-05-15 19:04:25 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-05-15 19:04:25 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 66.249.73.218 Googlebot-Image/1.0 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-05-15 21:58:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-05-15 21:58:46 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-05-15 21:58:46 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

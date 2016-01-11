@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-15 03:45:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-15 03:45:51 W3SVC60 208.123.218.206 GET /login.php - 80 - 5.9.11.122 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.13)+Gecko/20080311+Firefox/2.0.0.13 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-15 13:04:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-15 13:04:11 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.75.29 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-12-15 13:04:11 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.75.237 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-15 13:41:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-15 13:41:08 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.107.208 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2014-12-15 13:41:08 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.107.208 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-15 23:24:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-15 23:24:58 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.107.208 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2014-12-15 23:24:58 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.107.208 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0

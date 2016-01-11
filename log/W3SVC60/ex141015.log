@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-10-15 11:02:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-10-15 11:02:24 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.45 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-10-15 11:02:24 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.37 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-10-15 14:10:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-10-15 14:10:13 W3SVC60 208.123.218.206 HEAD /lib/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:13 W3SVC60 208.123.218.206 HEAD /uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:13 W3SVC60 208.123.218.206 HEAD /admin/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:13 W3SVC60 208.123.218.206 HEAD /includes/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:13 W3SVC60 208.123.218.206 HEAD /cms/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:17 W3SVC60 208.123.218.206 HEAD /plugins/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:17 W3SVC60 208.123.218.206 HEAD /inc/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+2014-10-15 14:10:17 W3SVC60 208.123.218.206 HEAD /js/uploadify/uploadify.swf - 80 - 109.227.85.58 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 404 0 3
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-10-15 17:40:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-10-15 17:40:28 W3SVC60 208.123.218.206 HEAD /login.php - 80 - 198.91.232.171 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+pl;+rv:1.9.1.3)+Gecko/20090824+Firefox/3.5.3 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-10-15 21:52:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-10-15 21:52:21 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.37 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

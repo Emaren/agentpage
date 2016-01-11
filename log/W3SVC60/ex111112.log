@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-11-12 02:23:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-11-12 02:23:35 W3SVC60 208.123.218.206 GET /GP_city7/map20a.php - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.2+(KHTML,+like+Gecko)+Chrome/15.0.874.120+Safari/535.2 200 0 0
+2011-11-12 02:23:35 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.2+(KHTML,+like+Gecko)+Chrome/15.0.874.120+Safari/535.2 404 0 2

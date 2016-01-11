@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-08-20 06:35:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-08-20 06:35:36 W3SVC60 208.123.218.206 GET /login.php - 80 - 54.85.52.115 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1 200 0 0
+2014-08-20 06:43:05 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.64.58.188 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.1)+Gecko/20061204+Firefox/2.0.0.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-08-20 17:11:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-08-20 17:11:03 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 54.88.104.117 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-08-20 19:20:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-08-20 19:20:40 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 54.164.117.85 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.75+Safari/537.1 404 0 2

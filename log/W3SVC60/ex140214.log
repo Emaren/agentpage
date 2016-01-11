@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-02-14 04:10:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-02-14 04:10:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 31.202.241.245 GoogleBot+1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-02-14 14:27:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-02-14 14:27:24 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-02-14 14:27:24 W3SVC60 208.123.218.206 GET /images/features.png - 80 - 66.249.73.114 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-02-14 21:05:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-02-14 21:05:13 W3SVC60 208.123.218.206 GET /login.php - 80 - 54.198.255.144 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-US)+AppleWebKit/533.3+(KHTML,+like+Gecko)+Chrome/5.0.354.0+Safari/533.3 200 0 0
+2014-02-14 21:05:13 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 54.198.255.144 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-US)+AppleWebKit/533.3+(KHTML,+like+Gecko)+Chrome/5.0.354.0+Safari/533.3 404 0 2

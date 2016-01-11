@@ -1,0 +1,38 @@
+<!--<div id="twitter_m">
+	<div id="twitter_container">
+		<ul id="twitter_update_list"></ul>
+	</div>
+</div>-->
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'faves',
+  rpp: 10,
+  interval: 6000,
+  title: 'The best of Twitter according to',
+  subject: 'MyRealtorNow',
+  width: 204,
+  height: 76,
+  theme: {
+    shell: {
+      background: '#2c8dab',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#fafafa',
+      color: '#444444',
+      links: '#9e3809'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'all'
+  }
+}).render().setUser('MyRealtorNow').start();
+</script>

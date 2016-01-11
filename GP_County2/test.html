@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0  Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en">
+<head>
+<title>Google Map API Example</title>
+<meta http-equiv="Content-Type"  content="text/html; charset=UTF-8" />
+<style type="text/css"  media="screen">
+<!--
+	/* 
+	Defines map size using CSS height/width of placeholder.
+	Using a class in case we need more than one map on the page.
+	*/
+	.gmap{height:300px; width:600px;} 
+-->
+</style>
+<!-- call to the map API on Google -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<!-- call to our javascript function file with the map code -->
+<script type="text/javascript">
+function map()
+{
+ //googlemap is the id of the placeholder in map.html
+ if(document.getElementById('googlemap')){ 
+  //your office coordinates latitude / longitude, if you change the variable name, you will also need to update line 8 and 14
+  var office = new google.maps.LatLng(52.02955,-0.72299); 
+  // zoom level defines the default scale of the map, the center is aligned to the coordinates from the previous line, the backgroundColor is the colour of the placeholder while the map loads (make it the same colour as your website background
+  var mapOptions = { zoom: 14, center:office, backgroundColor: "#ffffff" };
+  // generates map with the options defined above
+  var map = new google.maps.Map(document.getElementById("googlemap"), mapOptions);
+  // this is the InfoWindow (speech bubble) that contains the logo, it can contain HTML instead of an image
+  // adding a style="display:block" to fix the wrong size issue when InfoWindow only contains an image
+  var infowindow = new google.maps.InfoWindow({ content: '<p><img display="block" src="maplogo.gif" alt="map logo" /></p>'});
+  //the marker. If you do not want the marker to bounce, simply deleted the line that contains animation: google.maps.Animation.BOUNCE and uncomment the one below
+  //var marker = new google.maps.Marker({ position:office, map: map}); 
+  var marker = new google.maps.Marker({ position:office, map: map, animation: google.maps.Animation.BOUNCE }); 
+  //opens the InfoWindow, not needed if InfoWindow is not used
+  infowindow.open(map,marker);
+  //move the center of the map left and down to allow space to view the infowindow, not needed if InfoWindow is not used
+  map.panBy(10,70);
+
+  //function that makes the marker stop bouncing when clicked (it can be annoying). Delete it if not using the bouncing marker
+  google.maps.event.addListener(marker, 'click', function() { 
+  if (this.getAnimation() != null) { this.setAnimation(null); } 
+  else { this.setAnimation(google.maps.Animation.BOUNCE); } });
+
+  //map customisation
+  //colours of the different map elements
+  //change the hue hex colour to the main colour of your site and it should look ok
+  var colours = [
+   { featureType: "administrative", elementType: "all", stylers: [ { saturation: 40 }, { hue: "#ffcc00" } ]},
+   { featureType: "landscape", elementType: "all", stylers: [ { hue: "#ffcc00" }, { saturation: 40 }, { lightness: 0 } ] },
+   { featureType: "poi", elementType: "all", stylers: [ { hue: "#ffcc00" }, { saturation: 40 } ] },
+   { featureType: "road", elementType: "all", stylers: [ { hue: "#ffcc00" }, { saturation: 40 } ] },
+   { featureType: "transit", elementType: "all", stylers: [ { hue: "#ffcc00" }, { saturation: 40 } ] },
+   { featureType: "water", elementType: "all", stylers: [ { hue: "#ffcc00" }, { saturation: 40 } ] } 
+  ];
+
+  //applying colours to map
+  var styledMapOptions = { map: map, name: "Map"}
+  var myStyledMap = new google.maps.StyledMapType(colours,styledMapOptions);
+
+  //defining new map style
+  map.mapTypes.set('colouredMap', myStyledMap);
+  map.setMapTypeId('colouredMap');
+
+  //setting up the navigation options as a dropdown with thee options: your custom map colours, satellite view and hybrid view
+  map.setOptions({ mapTypeControl: true, mapTypeControlOptions: { style: google.maps.MapTypeControlStyle.DROPDOWN_MENU, mapTypeIds: ['colouredMap', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID] } });
+ }
+}
+</script>
+</head>
+<body>
+<!-- div placeholder for the map, you could also use  paragraph tags -->
+<input type=button name=but onclick="map();">
+<div id="googlemap" class="gmap"></div>
+</body>
+</html>

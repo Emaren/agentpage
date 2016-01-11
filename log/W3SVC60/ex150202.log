@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-02 00:47:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /login.php - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 200 0 0
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /apple-touch-icon-120x120-precomposed.png - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /apple-touch-icon-120x120.png - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /apple-touch-icon.png - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /apple-touch-icon.png - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /apple-touch-icon-precomposed.png - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+2015-02-02 00:47:34 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 162.156.59.20 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+8_1_3+like+Mac+OS+X)+AppleWebKit/600.1.4+(KHTML,+like+Gecko)+Mobile/12B466 404 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-02 18:10:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-02-02 18:10:44 W3SVC60 208.123.218.206 GET /login.php - 80 - 95.227.157.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Chrome/12.0.742.68+Safari/534.30 200 0 0

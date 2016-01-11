@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-08-17 02:52:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-08-17 02:52:06 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 137.186.205.49 Mozilla/5.0+(iPad;+CPU+OS+7_1_2+like+Mac+OS+X)+AppleWebKit/537.51.2+(KHTML,+like+Gecko)+Version/7.0+Mobile/11D257+Safari/9537.53 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-08-17 06:20:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-08-17 06:20:33 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.231 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2

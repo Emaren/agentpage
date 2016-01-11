@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-02-19 12:07:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-02-19 12:07:58 W3SVC60 208.123.218.206 GET /login.php - 80 - 94.23.181.88 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.8.131+Version/11.52 200 0 0
+2013-02-19 12:08:02 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 94.23.181.88 Mozilla/5.0+(X11;+U;+FreeBSD+amd64;+en-us)+AppleWebKit/531.2++(KHTML,+like+Gecko)+Safari/531.2++Epiphany/2.30.0 200 0 0

@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-07-13 05:28:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-07-13 05:28:48 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 66.183.89.54 Mozilla/5.0+(iPad;+CPU+OS+6_1_3+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+CriOS/36.0.1985.49+Mobile/10B329+Safari/8536.25 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-07-13 10:19:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-07-13 10:19:25 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.107.87 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2015-07-13 10:19:25 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.107.85 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0

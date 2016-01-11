@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-16 06:26:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-16 06:26:22 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 208.115.113.89 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-16 08:10:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-16 08:10:53 W3SVC60 208.123.218.206 GET /register.php - 80 - 208.115.113.89 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) 200 0 0

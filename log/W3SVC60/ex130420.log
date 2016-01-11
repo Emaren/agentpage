@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-20 23:38:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-20 23:38:31 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.214 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-04-20 23:38:31 W3SVC60 208.123.218.206 GET /images/county_btn.png - 80 - 66.249.73.214 Googlebot-Image/1.0 304 0 0

@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-04 16:04:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-04 16:04:50 W3SVC60 208.123.218.206 GET /login.php - 80 - 94.131.14.4 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.71+Safari/534.24 200 0 0

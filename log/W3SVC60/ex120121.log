@@ -1,0 +1,31 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-21 00:19:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-21 00:19:00 W3SVC60 208.123.218.206 GET /images/register_title.png - 80 - 66.249.67.55 Googlebot-Image/1.0 200 0 0
+2012-01-21 00:29:18 W3SVC60 208.123.218.206 GET /images/register_title.png - 80 - 66.249.68.228 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-21 00:50:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-21 00:50:56 W3SVC60 208.123.218.206 GET /images/agentpage_reg.png - 80 - 66.249.68.228 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-21 05:44:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-21 05:44:35 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.67.55 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-01-21 05:44:35 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.67.55 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-21 08:36:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-21 08:36:19 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.68.228 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-01-21 08:36:19 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.68.228 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-21 18:34:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-21 18:34:51 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.68.242 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-01-21 18:34:51 W3SVC60 208.123.218.206 GET /register.php - 80 - 66.249.68.242 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+2012-01-21 18:38:57 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.67.244 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-01-21 18:38:57 W3SVC60 208.123.218.206 GET /register.php - 80 - 66.249.67.244 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

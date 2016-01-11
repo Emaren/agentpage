@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-01 00:53:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-03-01 00:53:33 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.200.241.28 - 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-03-01 02:47:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-03-01 02:47:16 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.200.241.28 - 200 0 64

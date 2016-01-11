@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-04-29 08:37:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-04-29 08:37:43 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.75.118 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2015-04-29 08:37:43 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.75.6 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 00:18:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 00:18:21 W3SVC60 208.123.218.206 GET /login.php - 80 - 38.100.21.68 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0
+2013-06-12 00:18:21 W3SVC60 208.123.218.206 GET /register.php - 80 - 38.100.21.68 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 01:43:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 01:43:28 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-06-12 01:43:28 W3SVC60 208.123.218.206 GET /register.php - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 02:35:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 02:35:20 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 03:01:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 03:01:32 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 07:01:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 07:01:03 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.73.218 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-12 10:42:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-12 10:42:02 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.64.58.188 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.1)+Gecko/20061204+Firefox/2.0.0.1 200 0 0

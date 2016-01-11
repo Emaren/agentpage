@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-30 09:24:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-30 09:24:43 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+CBot/1.0;++http://overx50.com) 200 0 0
+2014-07-30 09:24:43 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+CBot/1.0;++http://overx50.com) 200 0 64
+2014-07-30 09:24:43 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+CBot/1.0;++http://overx50.com) 200 0 64
+2014-07-30 09:24:44 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+CBot/1.0;++http://overx50.com) 200 0 64
+2014-07-30 09:24:44 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+CBot/1.0;++http://overx50.com) 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-30 13:17:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-30 13:17:38 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+CBot/1.0;++http://downloaflare.biz) 200 0 0
+2014-07-30 13:17:38 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+CBot/1.0;++http://downloaflare.biz) 200 0 64
+2014-07-30 13:17:39 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+CBot/1.0;++http://downloaflare.biz) 200 0 64

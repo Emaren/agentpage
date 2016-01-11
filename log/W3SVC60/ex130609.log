@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-09 12:34:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-06-09 12:34:33 W3SVC60 208.123.218.206 GET /register.php - 80 - 222.77.246.155 Opera/9.80+(Windows+NT+6.0)+Presto/2.12.388+Version/12.10 200 0 0

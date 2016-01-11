@@ -1,0 +1,14 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-10 02:32:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-03-10 02:32:55 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+YPC+3.0.2;+.NET+CLR+1.1.4322;+yplus+4.4.02b) 200 0 0
+2014-03-10 02:32:55 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+5.0;+.NET+CLR+1.1.4322) 200 0 64
+2014-03-10 02:32:55 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Opera/8.00+(Windows+NT+5.1;+U;+en) 200 0 64
+2014-03-10 02:32:56 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+APC;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50215;+InfoPath.1) 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-10 19:16:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-03-10 19:16:25 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 216.145.5.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2
+2014-03-10 19:16:25 W3SVC60 208.123.218.206 GET /login.php - 80 - 216.145.5.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0

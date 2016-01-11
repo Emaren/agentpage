@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-26 08:56:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-03-26 08:56:59 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.67 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-03-26 08:56:59 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 66.249.79.67 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-26 14:19:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-03-26 14:19:12 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.30 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-03-26 14:19:13 W3SVC60 208.123.218.206 GET /images/features.png - 80 - 66.249.79.30 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-03-26 19:55:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-03-26 19:55:24 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+KTXN) 200 0 0
+2014-03-26 19:55:26 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95) 200 0 64
+2014-03-26 19:55:26 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Opera/8.00+(Windows+NT+5.1;+U;+en) 200 0 64
+2014-03-26 19:55:27 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+MRA+4.3+(build+01218);+.NET+CLR+1.1.4322) 200 0 64
+2014-03-26 19:55:27 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+KTXN) 200 0 64

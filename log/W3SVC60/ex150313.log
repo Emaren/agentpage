@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-13 13:57:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-13 13:57:10 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.75.238 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2015-03-13 13:57:10 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 66.249.75.14 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-13 20:07:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-13 20:07:21 W3SVC60 208.123.218.206 GET /blog/wp-includes/js/tinymce/utils/mctabs.js - 80 - 31.184.195.243 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.111+Safari/537.36 404 0 64
+2015-03-13 20:07:21 W3SVC60 208.123.218.206 GET /blog/wp-images/wpminilogo.png - 80 - 31.184.195.243 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.111+Safari/537.36 404 0 64

@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-12-22 07:18:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-12-22 07:18:34 W3SVC60 208.123.218.206 GET /gp_city5/map20i.php - 80 - 64.178.131.180 Mozilla/5.0+(iPad;+CPU+OS+5_0_1+like+Mac+OS+X)+AppleWebKit/534.46+(KHTML,+like+Gecko)+Version/5.1+Mobile/9A405+Safari/7534.48.3 404 0 0
+2011-12-22 07:18:51 W3SVC60 208.123.218.206 GET /apple-touch-icon-72x72-precomposed.png - 80 - 64.178.131.180 MobileSafari/7534.48.3+CFNetwork/548.0.4+Darwin/11.0.0 404 0 121
+2011-12-22 07:18:51 W3SVC60 208.123.218.206 GET /apple-touch-icon-72x72.png - 80 - 64.178.131.180 MobileSafari/7534.48.3+CFNetwork/548.0.4+Darwin/11.0.0 404 0 121
+2011-12-22 07:18:52 W3SVC60 208.123.218.206 GET /apple-touch-icon-precomposed.png - 80 - 64.178.131.180 MobileSafari/7534.48.3+CFNetwork/548.0.4+Darwin/11.0.0 404 0 121
+2011-12-22 07:18:52 W3SVC60 208.123.218.206 GET /apple-touch-icon.png - 80 - 64.178.131.180 MobileSafari/7534.48.3+CFNetwork/548.0.4+Darwin/11.0.0 404 0 121
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-12-22 22:30:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-12-22 22:30:43 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 86.8.5.84 Mozilla/5.0+(compatible;+008/0.83;+http://www.80legs.com/webcrawler.html;)+Gecko/2008032620 404 0 2
+2011-12-22 22:30:43 W3SVC60 208.123.218.206 GET /login.php - 80 - 86.8.5.84 Mozilla/5.0+(compatible;+008/0.83;+http://www.80legs.com/webcrawler.html)+Gecko/2008032620 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-12-22 23:44:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-12-22 23:44:32 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 194.44.221.46 Mozilla/5.0+(compatible;+008/0.83;+http://www.80legs.com/webcrawler.html;)+Gecko/2008032620 404 0 2
+2011-12-22 23:44:33 W3SVC60 208.123.218.206 GET /login.php - 80 - 194.44.221.46 Mozilla/5.0+(compatible;+008/0.83;+http://www.80legs.com/webcrawler.html)+Gecko/2008032620 200 0 0
+2011-12-22 23:44:33 W3SVC60 208.123.218.206 GET /login.php - 80 - 194.44.221.46 Mozilla/5.0+(compatible;+008/0.83;+http://www.80legs.com/webcrawler.html)+Gecko/2008032620 200 0 0

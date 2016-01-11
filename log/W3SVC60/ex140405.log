@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-05 08:37:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-05 08:37:26 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.66.119 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-04-05 08:37:27 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 66.249.66.136 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-05 11:51:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-05 11:51:42 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 66.249.66.118 Googlebot-Image/1.0 200 0 0
+2014-04-05 11:53:40 W3SVC60 208.123.218.206 GET /images/email.png - 80 - 66.249.66.119 Googlebot-Image/1.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-04-05 23:36:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-04-05 23:36:56 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.66.121 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-04-05 23:36:56 W3SVC60 208.123.218.206 GET /images/upload2.png - 80 - 66.249.66.107 Googlebot-Image/1.0 200 0 0
+2014-04-05 23:51:57 W3SVC60 208.123.218.206 GET /images/first.png - 80 - 66.249.66.124 Googlebot-Image/1.0 200 0 0
+2014-04-05 23:54:29 W3SVC60 208.123.218.206 GET /images/upload1.png - 80 - 66.249.66.138 Googlebot-Image/1.0 200 0 0

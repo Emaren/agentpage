@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-09 01:39:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-09 01:39:06 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-01-09 01:39:06 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-09 11:31:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-09 11:30:59 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 69.58.178.58 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 404 0 2
+2013-01-09 11:31:01 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.58.178.58 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+2013-01-09 11:31:02 W3SVC60 208.123.218.206 GET /register.php - 80 - 69.58.178.58 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-09 12:51:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-09 12:51:09 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 69.58.178.59 BlackBerry9000/4.6.0.167+Profile/MIDP-2.0+Configuration/CLDC-1.1+VendorID/102+ips-agent 404 0 2
+2013-01-09 12:51:40 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.58.178.59 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+2013-01-09 12:52:09 W3SVC60 208.123.218.206 GET /register.php - 80 - 69.58.178.59 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0

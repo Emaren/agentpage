@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-26 00:43:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-26 00:43:55 W3SVC60 208.123.218.206 GET /GP_city7/map20a.php - 80 - 96.53.55.202 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_1_4+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10B350+Safari/8536.25 200 0 0
+2015-03-26 00:44:02 W3SVC60 208.123.218.206 GET /getsdivision.php id=3 80 - 96.53.55.202 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_1_4+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10B350+Safari/8536.25 200 0 0
+2015-03-26 00:44:02 W3SVC60 208.123.218.206 GET /GP_city7/images/avondale2.png - 80 - 96.53.55.202 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_1_4+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10B350+Safari/8536.25 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-26 03:58:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-26 03:58:15 W3SVC60 208.123.218.206 GET /login.php - 80 - 37.130.227.133 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 200 0 0
+2015-03-26 04:06:23 W3SVC60 208.123.218.206 GET /login.php - 80 - 178.175.139.141 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-26 05:14:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-26 05:14:33 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 64.246.161.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2
+2015-03-26 05:14:33 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.246.161.42 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-03-26 16:33:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-03-26 16:33:13 W3SVC60 208.123.218.206 GET /login.php - 80 - 37.230.114.209 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.111+Safari/537.36 200 0 0

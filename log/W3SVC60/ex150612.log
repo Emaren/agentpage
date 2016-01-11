@@ -1,0 +1,9 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-06-12 14:20:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-06-12 14:20:35 W3SVC60 208.123.218.206 GET /login.php - 80 - 142.4.218.156 Mozilla/5.0+(compatible;+Lipperhey-Kaus-Australis/5.0;++https://www.lipperhey.com/en/about/) 200 0 0
+2015-06-12 14:20:38 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 142.4.218.156 Mozilla/5.0+(compatible;+Lipperhey-Kaus-Australis/5.0;++https://www.lipperhey.com/en/about/) 404 0 2
+2015-06-12 14:20:38 W3SVC60 208.123.218.206 GET /login.php - 80 - 142.4.218.156 Mozilla/5.0+(compatible;+Lipperhey-Kaus-Australis/5.0;++https://www.lipperhey.com/en/about/) 200 0 0
+2015-06-12 14:20:39 W3SVC60 208.123.218.206 GET /register.php - 80 - 142.4.218.156 Mozilla/5.0+(compatible;+Lipperhey-Kaus-Australis/5.0;++https://www.lipperhey.com/en/about/) 200 0 0
+2015-06-12 14:20:41 W3SVC60 208.123.218.206 GET /login.php - 80 - 142.4.218.156 Mozilla/5.0+(Linux;+Android+4.0.4;+Galaxy+Nexus+Build/IMM76B)+AppleWebKit/535.19+(KHTML,+like+Gecko)+Chrome/18.0.1025.133+Mobile+Safari/535.19 200 0 0

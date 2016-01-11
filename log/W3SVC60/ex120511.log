@@ -1,0 +1,45 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 05:26:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 05:26:07 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.71.175 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-05-11 05:26:07 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 66.249.71.175 Googlebot-Image/1.0 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 06:46:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 06:46:16 W3SVC60 208.123.218.206 GET /images/upload1.png - 80 - 66.249.71.175 Googlebot-Image/1.0 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 09:14:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 09:14:07 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.71.175 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 15:40:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 15:40:31 W3SVC60 208.123.218.206 GET /login.php - 80 - 188.94.23.23 - 200 0 0
+2012-05-11 15:40:31 W3SVC60 208.123.218.206 GET /login.php - 80 - 188.94.23.12 - 200 0 0
+2012-05-11 15:40:38 W3SVC60 208.123.218.206 GET /login.php - 80 - 188.94.23.18 - 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 17:45:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 17:45:38 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 216.13.56.98 wminer/Nutch-1.4 404 0 2
+2012-05-11 17:45:38 W3SVC60 208.123.218.206 GET /login.php - 80 - 216.13.56.98 wminer/Nutch-1.4 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 19:33:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 19:33:43 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 216.13.56.98 wminer/Nutch-1.4 404 0 2
+2012-05-11 19:33:43 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 216.13.56.98 wminer/Nutch-1.4 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 20:18:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 20:18:34 W3SVC60 208.123.218.206 GET /register.php - 80 - 216.13.56.98 wminer/Nutch-1.4 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-11 22:02:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-11 22:02:50 W3SVC60 208.123.218.206 POST /login.php -d+allow_url_include%3don+-d+auto_prepend_file%3dphp://input+-d+safe_mode%3d1+-d+suhosin.simulation%3d1+-d+disable_functions%3d%22%22+-d+open_basedir%3dnone+-n 80 - 85.114.141.40 - 200 0 64

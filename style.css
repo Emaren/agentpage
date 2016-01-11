@@ -1,0 +1,452 @@
+/*BACKEND CSS*/
+
+body {
+background: url(images/bg.jpg) repeat-x #535353;
+padding: 0;
+margin: 0;
+font-family: Helvetica, Arial, Sans-serif;
+font-size: 12px;
+}
+
+#header {
+height: 117px;	
+background: #330000;
+width: 100%;
+min-width: 1250px;
+}
+
+#menu {
+background: #330000;
+width: auto;
+min-width: 900px;
+}
+
+#menu {
+border-top: 1px solid #e3dccf;
+padding: 10px 0 10px 340px;
+min-height: 15px;
+}
+
+#header .logged_in {
+color: #ccc;
+font-size: 30px;
+font-family: helvetica, arial, sans-serif;
+margin: 0 30px 0 20px;	
+float: right;
+position: relative;
+top: 85px;
+font-weight: 600;
+}
+
+#menu ul {
+padding: 0 0 0 40px;	
+margin: 0;
+}
+
+#menu ul li {
+display: inline;
+padding: 0 10px;	
+}
+
+#menu ul li a {
+color: #e3dccf;
+text-decoration: none;
+font-size: 18px;
+font-variant: small-caps;	
+font-family: Garamond, Georgia, serif;
+}
+
+#menu ul li a:hover {
+color: #E5E5E5;
+}
+
+.backend_wrap {
+min-width: 900px;	
+}
+
+#header h1 {
+margin: 0;
+color: #e3dccf;
+font-size: 50px;
+letter-spacing: -2px;	
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+padding: 10px 20px;
+font-weight: normal;
+}
+
+#login_div {
+width: 350px;
+background: #330000;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border: 1px solid #5d5d5d;
+margin: 100px auto 0;
+color: #fff;
+padding: 40px;
+font-family: helvetica, arial, sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+
+#login_div input[type="text"], #login_div input[type="password"] {
+margin-bottom: 25px;	
+padding: 5px;
+width: 95%;
+}
+
+#login_div input[type="submit"] {
+background: url(images/login_btn.png) no-repeat;
+border: none;
+height: 44px;
+width: 138px;
+}
+
+/*USERS TABLEs*/
+
+.wrapper {
+background: #fff;
+width: 80%;
+margin: 20px;
+float:left;
+min-width: 650px;
+}
+
+.table_lists, .table_lists2, .add_serv_table {
+width: 100%;
+border: none;	
+background: #fff;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-bottom-left-radius: 10px;
+border-bottom-left-radius: 10px;
+-webkit-border-bottom-right-radius: 10px;
+-moz-border-bottom-right-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.table_lists th, .table_lists2 th {
+text-align: left;
+font-size: 18px;
+font-weight: bold;	
+padding-bottom: 5px;
+}
+
+.table_lists th a, .table_lists2 th a {
+color: #333333 !important;
+text-decoration: none !important;	
+}
+
+.table_lists td {
+padding-bottom: 10px;
+padding-top: 10px;
+border-bottom: 1px solid #ccc;
+}
+
+.table_lists2 td {
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+/*GENERAL STYLES*/
+
+input.rounded {
+background: #fff;
+border: 1px solid #000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+width: 260px;
+padding: 5px 5px;	
+font-size: 16px;}
+
+select.rounded {
+background: #fff;
+border: 1px solid #000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+width: 260px;
+padding: 5px 5px;	
+font-size: 16px;}
+
+textarea.rounded {
+background: #fff;
+border: 1px solid #000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding: 5px 5px;
+font-size: 16px;
+}
+
+.pageheader {
+background: #330000;
+width: 100%;
+-webkit-border-top-left-radius: 10px;
+-moz-border-top-left-radius: 10px;
+border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-top-right-radius: 10px;
+border-top-right-radius: 10px;
+height: 45px;
+min-width: 590px;
+}
+
+.pageheader p {
+font-size: 20px;
+font-weight: bold;
+margin: 0;	
+padding: 12px 20px;	
+color: #fff;
+float:left;
+font-style: italic;
+}
+
+.savebtn {
+background: url(images/savebtn.png) no-repeat;
+border: none;
+height: 40px;
+width: 134px;
+}
+
+/*EDIT LISTING*/
+
+.edit_table {
+width: 100%;
+border: 1px #000;	
+background: #fff;
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-bottom-left-radius: 10px;
+border-bottom-left-radius: 10px;
+-webkit-border-bottom-right-radius: 10px;
+-moz-border-bottom-right-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.edit_table th {
+text-align: left;
+font-size: 18px;
+font-weight: bold;	
+padding-bottom: 5px;
+vertical-align: top;
+}
+
+.edit_table td {
+padding-bottom: 25px;
+vertical-align: top;
+}
+
+.edit_table input.rounded {
+width: 125px;
+}
+
+.edit_table select.rounded {
+width: 250px;
+background: #fff;
+border: 1px solid #000;
+font-size: 16px;
+height: 32px;
+padding: 4px;
+}
+
+.message {
+width: 100%;
+padding: 5px;
+font-size: 1.2em;
+text-align: center;
+background: #999999;
+color: #000000;
+font-weight:bold;
+display: block;
+float: left;
+position:relative;
+top: -2px;
+/* left: 0;
+z-index: 1000; */
+}
+
+.green {
+background: #049708;
+color: #fff;
+}
+
+.red {
+background: #c60000;
+color: #fff;
+}
+
+.red_remove {
+color: #c60000;
+background: #fff;
+}
+
+.tooltip{ position: absolute; top: 0; left: 0; z-index: 3; display: none; }
+
+#container {
+    margin:0 auto;
+    width:500px;
+	float:left;
+}
+
+/*TABS*/
+
+.tab {
+background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.15, rgb(117,101,67)),
+    color-stop(0.79, rgb(77,61,26))
+);
+background-image: -moz-linear-gradient(
+    center top,
+    rgb(117,101,67) 15%,
+    rgb(77,61,26) 79%
+);
+-webkit-border-top-left-radius: 10px;
+-moz-border-top-left-radius: 10px;
+border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-top-right-radius: 10px;
+border-top-right-radius: 10px;
+float:left;
+padding: 10px;
+margin-top: 3px;
+margin-right: 10px;
+border: 1px solid #fff;
+}
+
+.tab a {
+color: #fff;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;	
+}
+
+/*EXTENSIBLE BUTTONS*/
+
+a.brown_btn, input.brown_btn {
+background: url(/images/btn_base.png) no-repeat;
+font-size: 20px;
+font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+color: #fff;
+padding: 8px 47px;
+text-decoration: none;
+font-weight: bold;
+border: none;
+}
+
+a.brown_btn2 {
+background: url(/images/btn_base3.png) no-repeat;
+font-size: 20px;
+font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+color: #fff;
+padding: 8px 22px;
+text-decoration: none;
+font-weight: bold;
+border: none;
+}
+
+input.sendinvite {
+background: url(/images/btn_base2.png) no-repeat;
+font-size: 20px;
+font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+color: #fff;
+padding: 8px 12px;
+text-decoration: none;
+font-weight: bold;
+border: none;
+width: 160px;
+}
+
+input.import {
+background: url(/images/btn_baselong.png) no-repeat;
+font-size: 20px;
+font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+color: #fff;
+padding: 8px 12px;
+text-decoration: none;
+font-weight: bold;
+border: none;
+width: 205px;
+}
+
+.brown_btn:hover, .sendinvite:hover, .import:hover {
+color: #ccc;
+cursor: pointer;
+cursor: hand;:
+}
+
+.brown_btn:active {
+background: url(/images/btn_base_active.png) no-repeat;	
+}
+
+.sendinvite:active {
+background: url(/images/btn_base2_active.png) no-repeat;	
+}
+
+a.addrealtor, a.addlisting, a.traffic {
+padding: 8px 15px;	
+}
+
+a.viewaccount {
+padding: 8px;	
+}
+
+a.addclient {
+padding: 8px 20px;	
+}
+
+.default_link {
+color: #000;	
+text-decoration: none;
+}
+
+.default_link:visited {
+color: #000;	
+}
+
+.superscript {
+font-size: 12px;
+position:relative;
+top: -10px;
+padding-left: 2px;	
+}
+
+table.newlist {
+background: #fffbd2;
+border: 1px solid #fffbd2;
+}
+
+#edit_services table {
+border: 1px solid #fff;
+}
+
+#edit_services table:hover {
+border: 1px solid #000;
+}
+
+table.hint {
+color: #fff;
+font-size: 12px;
+font-weight: bold;
+font-style:italic;
+font-family: Arial, Helvetica, sans-serif;
+width: 152px;
+margin-top: 100px;
+}
+
+/*EMAREN TWITTER*/
+
+.wrapper .twtr-doc {
+margin: 5px auto !important;
+}
+
+table.no_underlines th {
+font-size: 14px;	
+}
+
+table.no_underlines td {
+border: none;
+font-size: 14px;	
+}

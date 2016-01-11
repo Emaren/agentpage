@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-02-09 03:48:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-02-09 03:48:22 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 69.58.178.59 BlackBerry9000/4.6.0.167+Profile/MIDP-2.0+Configuration/CLDC-1.1+VendorID/102+ips-agent 404 0 2
+2014-02-09 03:48:24 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.58.178.59 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+2014-02-09 03:48:26 W3SVC60 208.123.218.206 GET /register.php - 80 - 69.58.178.59 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-02-09 21:43:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-02-09 21:43:04 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 62.210.140.37 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_6_8)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/27.0.1453.116+Safari/537.36 200 0 0

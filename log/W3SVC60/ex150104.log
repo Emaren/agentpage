@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-04 03:17:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-01-04 03:17:13 W3SVC60 208.123.218.206 GET /login.php - 80 - 104.130.192.107 Mozilla/5.0 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-04 19:15:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-01-04 19:15:23 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+MediaBot/1.1.6;++http://mercedes-w123.net) 200 0 0
+2015-01-04 19:15:23 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+MediaBot/1.1.6;++http://mercedes-w123.net) 200 0 64
+2015-01-04 19:15:23 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+MediaBot/1.1.6;++http://mercedes-w123.net) 200 0 64
+2015-01-04 19:15:25 W3SVC60 208.123.218.206 GET /login.php - 80 - 91.250.15.69 Mozilla/5.1+(compatible;+MediaBot/1.1.6;++http://mercedes-w123.net) 200 0 64

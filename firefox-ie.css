@@ -1,0 +1,48 @@
+a.brown_btn, input.brown_btn {
+font-size: 17px !important;
+}
+
+a.addclient {
+padding-left: 20px;
+padding-right: 20px;
+min-width: 133px;
+min-height: 21px;	
+}
+
+input.import {
+font-size: 18px;
+padding: 10px 12px;	
+}
+
+a.addlisting {
+padding-left: 16px;
+padding-right: 16px;	
+}
+
+a.viewaccount {
+padding-left: 10px;
+padding-right: 10px;	
+letter-spacing: -1px;
+min-height: 21px;
+}
+
+#services_width {
+max-width: 1200px;
+width: 100%;	
+}
+
+#services_width th {
+width: 20%;
+min-width: 100px;
+max-wdith: 100px;	
+}
+
+#services_width .serv_break, #services_width th {
+width: 200px;
+max-width: 200px;	
+}
+
+a.traffic, a.addrealtor {
+padding: 8px 13px;	
+min-height: 21px;
+}

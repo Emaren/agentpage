@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-21 04:13:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-21 04:13:32 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.183 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-06-21 04:13:32 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.170 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-21 07:12:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-21 07:12:26 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.157 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-21 10:37:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-21 10:37:13 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.64.58.188 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.1)+Gecko/20061204+Firefox/2.0.0.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-21 11:59:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-21 11:59:51 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.202.161.41 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 0
+2014-06-21 11:59:51 W3SVC60 208.123.218.206 GET /admin - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2014-06-21 11:59:51 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 0
+2014-06-21 11:59:52 W3SVC60 208.123.218.206 GET /administrator - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2014-06-21 11:59:52 W3SVC60 208.123.218.206 GET /user - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2014-06-21 11:59:54 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 64.202.161.41 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 64
+2014-06-21 11:59:54 W3SVC60 208.123.218.206 GET /register.php - 80 - 64.202.161.46 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-21 15:01:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-21 15:01:30 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.183 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-06-21 15:01:31 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.183 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

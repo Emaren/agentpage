@@ -1,0 +1,22 @@
+a.brown_btn, input.brown_btn {
+font-size: 16px !important;	
+}
+
+a.addclient {
+padding-right: 24px;
+padding-left: 24px;
+}
+
+a.addlisting {
+padding-left: 18px;
+padding-right: 18px;	
+}
+
+a.viewaccount {
+padding-right: 10px;
+padding-left: 10px;	
+}
+
+input.import {
+font-size: 18px;	
+}

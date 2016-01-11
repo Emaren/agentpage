@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-17 01:26:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-17 01:26:57 W3SVC60 208.123.218.206 GET /index.php nn_qp=1&url=http://www.nonumber.nl/ 80 - 176.103.206.99 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+da)+AppleWebKit/522.15.5+(KHTML,+like+Gecko)+Version/3.0.3+Safari/522.15.5 404 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-17 06:16:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-17 06:16:47 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-01-17 06:16:47 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

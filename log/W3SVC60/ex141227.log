@@ -1,0 +1,30 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-27 07:28:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-27 07:28:03 W3SVC60 208.123.218.206 GET /login.php - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/myrealtornow_gp_title.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 199.30.228.137 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/new_login.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/login_blurb.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/county_btn.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/city_btn.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+2014-12-27 07:28:06 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 199.30.228.148 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/534.34+(KHTML,+like+Gecko)+Qt/4.8.4+Safari/534.34 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-27 13:29:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-27 13:29:55 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.69.146 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-12-27 13:29:55 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.69.146 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-27 17:30:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-27 17:30:17 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.69.146 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-27 22:10:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-12-27 22:10:32 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.69.146 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0

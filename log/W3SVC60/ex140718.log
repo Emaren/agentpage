@@ -1,0 +1,77 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 00:38:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 00:38:22 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 02:58:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 02:58:08 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+2014-07-18 03:05:33 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.101 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 04:10:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 04:10:01 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 07:54:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 07:54:52 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+2014-07-18 08:01:38 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.79.127 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 09:49:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 09:49:08 W3SVC60 208.123.218.206 GET /login.php - 80 - 54.90.183.239 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.3)+Gecko/20100401+Firefox/3.6.3+GTB6+(.NET+CLR+3.5.30729) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 10:29:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 10:29:19 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 11:53:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 11:53:06 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 14:02:08
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 14:02:08 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 195.88.209.151 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/23.0.1271.17+Safari/537.11 404 0 0
+2014-07-18 14:02:09 W3SVC60 208.123.218.206 GET /administrator/ - 80 - 195.88.209.151 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/23.0.1271.17+Safari/537.11 404 0 2
+2014-07-18 14:02:09 W3SVC60 208.123.218.206 GET /admin.php - 80 - 195.88.209.151 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/23.0.1271.17+Safari/537.11 404 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 14:54:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 14:54:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 16:37:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 16:37:16 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 20:20:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 20:20:25 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 21:03:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 21:03:03 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 404 0 2
+2014-07-18 21:03:03 W3SVC60 208.123.218.206 GET /login.php - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 21:50:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 21:50:23 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 404 0 2
+2014-07-18 21:50:25 W3SVC60 208.123.218.206 GET /register.php - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 200 0 0
+2014-07-18 21:50:32 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-07-18 22:25:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-07-18 22:25:24 W3SVC60 208.123.218.206 GET /login.php - 80 - 212.227.251.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1944.0+Safari/537.36 200 0 0

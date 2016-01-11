@@ -1,0 +1,34 @@
+a.brown_btn, input.brown_btn {
+font-size: 17px !important; 	
+}
+
+a.addclient {
+padding-left: 28px;
+padding-right: 28px;	
+}
+
+a.addlisting {
+padding-left: 25px;
+padding-right: 25px;	
+}
+
+a.viewaccount {
+padding-left: 18px;
+padding-right: 18px;	
+}
+
+#services_width {
+max-width: 1200px;
+width: 100%;	
+}
+
+#services_width th {
+width: 20%;
+min-width: 100px;
+max-wdith: 100px;	
+}
+
+#services_width .serv_break, #services_width th {
+width: 200px;
+max-width: 200px;	
+}

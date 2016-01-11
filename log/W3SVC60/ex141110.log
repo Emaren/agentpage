@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-11-10 05:37:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-11-10 05:37:59 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.107.226 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2014-11-10 05:38:05 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.107.226 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-11-10 10:22:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-11-10 10:22:12 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+U2Bot/1.1.4;++http://u2search.co) 200 0 0
+2014-11-10 10:22:12 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+U2Bot/1.1.4;++http://u2search.co) 200 0 64
+2014-11-10 10:22:12 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+U2Bot/1.1.4;++http://u2search.co) 200 0 64
+2014-11-10 10:22:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 193.43.252.252 Mozilla/5.1+(compatible;+U2Bot/1.1.4;++http://u2search.co) 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-11-10 23:02:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-11-10 23:02:37 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.138 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-11-10 23:02:37 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.146 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

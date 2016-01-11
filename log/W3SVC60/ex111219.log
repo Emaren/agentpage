@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-12-19 18:31:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /rd_login.php - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/myrealtornow_rd_title.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:33 W3SVC60 208.123.218.206 GET /images/new_login.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:34 W3SVC60 208.123.218.206 GET /images/rd_login_blurb.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:34 W3SVC60 208.123.218.206 GET /images/rd_county_btn.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:34 W3SVC60 208.123.218.206 GET /images/rd_city_btn.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:34 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 404 0 2
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/myrealtornow_gp_title.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/new_login.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:45 W3SVC60 208.123.218.206 GET /images/login_blurb.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:46 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:46 W3SVC60 208.123.218.206 GET /images/county_btn.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:46 W3SVC60 208.123.218.206 GET /images/city_btn.png - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:46 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 404 0 2
+2011-12-19 18:31:53 W3SVC60 208.123.218.206 GET /rd_login.php - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 200 0 0
+2011-12-19 18:31:53 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 64.178.131.180 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_2)+AppleWebKit/535.7+(KHTML,+like+Gecko)+Chrome/16.0.912.63+Safari/535.7 404 0 2

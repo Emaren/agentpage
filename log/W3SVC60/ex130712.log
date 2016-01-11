@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-07-12 12:10:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-07-12 12:10:56 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 85.25.134.59 NCBot+(http://netcomber.com+:+tool+for+finding+true+domain+owners)+Queries/complaints:+bot@netcomber.com 404 0 2
+2013-07-12 12:10:58 W3SVC60 208.123.218.206 GET /login.php - 80 - 85.25.134.59 NCBot+(http://netcomber.com+:+tool+for+finding+true+domain+owners)+Queries/complaints:+bot@netcomber.com 200 0 0

@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-11-26 14:10:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /login.php - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/login_blurb.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/new_login.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/city_btn.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/myrealtornow_gp_title.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:21 W3SVC60 208.123.218.206 GET /images/county_btn.png - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 200 0 0
+2011-11-26 14:10:37 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 209.89.220.40 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0;+BOIE9;ENCA) 404 0 64

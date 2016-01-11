@@ -1,0 +1,135 @@
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150730.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150729.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150728.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150727.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150726.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150725.log: ignoring it
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150724.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150724.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150724.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150724.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150723.log: ignoring it
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150722.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150722.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150722.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150722.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150721.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150721.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150720.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150719.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150719.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150718.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150717.log: ignoring it
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150716.log: ignoring it
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150715.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150714.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150713.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150713.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150712.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning F: Failed to open logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150711.log: ignoring it
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150710.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150710.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150710.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150709.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150708.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150707.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150706.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150706.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150705.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150704.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150704.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150703.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150703.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150703.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150702.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150702.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150701.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning M: Logfile
+  D:\Websites\myrealtornow.ca\log\W3SVC60\ex150701.log contains lines with no
+  bytes: byte counts may be low
+c:\progra~1\analog\analog: Warning R: Turning off empty Referrer Report
+c:\progra~1\analog\analog: Warning R: Turning off empty Failed Referrer Report
+c:\progra~1\analog\analog: Warning R: Turning off empty Search Query Report
+c:\progra~1\analog\analog: Warning R: Turning off empty Search Word Report
+c:\progra~1\analog\analog: Warning R: Turning off empty File Size Report

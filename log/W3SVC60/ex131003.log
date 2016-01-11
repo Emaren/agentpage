@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-10-03 21:47:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-10-03 21:47:35 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.202.161.46 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 0
+2013-10-03 21:47:35 W3SVC60 208.123.218.206 GET /admin - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2013-10-03 21:47:36 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 64.202.161.46 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 0
+2013-10-03 21:47:36 W3SVC60 208.123.218.206 GET /administrator - 80 - 64.202.161.44 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2013-10-03 21:47:36 W3SVC60 208.123.218.206 GET /user - 80 - 64.202.161.44 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2
+2013-10-03 21:47:37 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 64.202.161.46 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 64
+2013-10-03 21:47:37 W3SVC60 208.123.218.206 GET /register.php - 80 - 64.202.161.46 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+CrawlDaddy+v0.3.0+abot+v1.2.0.0+http://code.google.com/p/abot) 200 0 0
+2013-10-03 21:47:37 W3SVC60 208.123.218.206 GET /admin - 80 - 64.202.161.44 User-Agent+Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+WOW64;+Trident/5.0) 404 0 2

@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-04 16:51:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-04 16:51:27 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:51:27 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:51:43 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 206 0 0
+2013-04-04 16:51:44 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /register.php - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/register_title.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/support.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/first.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/last.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/features.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/email.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/agentpage_reg.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/regblurb.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/upload1.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/upload2.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:10 W3SVC60 208.123.218.206 GET /images/register_btn.png - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 200 0 0
+2013-04-04 16:53:12 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 209.91.107.161 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+en-ca;+SGH-I747M+Build/JRO03L)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/534.30 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-04-04 21:35:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-04-04 21:35:52 W3SVC60 208.123.218.206 GET /login.php - 80 - 69.64.58.188 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.1)+Gecko/20061204+Firefox/2.0.0.1 200 0 0

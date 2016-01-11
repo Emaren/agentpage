@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-09-25 02:01:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-09-25 02:01:22 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.39.68 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2014-09-25 02:01:24 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.39.68 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-09-25 13:03:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-09-25 13:03:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 188.190.100.50 Mozilla/5.0+(X11;+Linux+i686)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.215+Safari/535.1 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-09-25 15:45:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-09-25 15:45:32 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 64.246.165.180 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2
+2014-09-25 15:45:32 W3SVC60 208.123.218.206 GET /login.php - 80 - 64.246.165.180 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0

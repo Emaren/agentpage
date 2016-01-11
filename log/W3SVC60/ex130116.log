@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-16 01:00:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-16 01:00:11 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2013-01-16 01:00:11 W3SVC60 208.123.218.206 GET /register.php - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-16 01:22:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-16 01:22:48 W3SVC60 208.123.218.206 GET /Emaren_Licensing_Agreement.pdf - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-16 05:04:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-16 05:04:19 W3SVC60 208.123.218.206 GET /administrator/components/com_jce/jce.xml - 80 - 94.158.34.29 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+da)+AppleWebKit/522.15.5+(KHTML,+like+Gecko)+Version/3.0.3+Safari/522.15.5 404 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-01-16 05:54:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2013-01-16 05:54:30 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.73.154 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

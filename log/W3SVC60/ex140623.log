@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-23 13:05:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-23 13:05:32 W3SVC60 208.123.218.206 GET /manager/ht.access - 80 - 195.211.72.132 Mozilla/6.0+(Windows+NT+6.1;+rv:11.0)+Gecko/20110101+Firefox/12.0 404 0 3
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-23 20:21:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-23 20:21:29 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.79.128 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2014-06-23 20:21:29 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.79.128 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-06-17 01:13:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-06-17 01:13:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 104.43.199.148 python-requests/2.7.0+CPython/2.7.8+Linux/3.16.0-30-generic 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-06-17 08:22:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-06-17 08:22:09 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.65.232 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2015-06-17 08:22:09 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.65.246 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2015-06-17 08:22:09 W3SVC60 208.123.218.206 GET /login.php - 80 - 66.249.65.239 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0

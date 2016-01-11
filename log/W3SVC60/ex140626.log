@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-26 12:41:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-26 12:41:04 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 92.53.98.44 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 404 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-06-26 14:40:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-06-26 14:40:53 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 404 0 2
+2014-06-26 14:40:53 W3SVC60 208.123.218.206 GET /login.php - 80 - 204.101.136.116 wminer/Nutch-1.5.1+(wminer;+wminer.com;+wminer) 200 0 0

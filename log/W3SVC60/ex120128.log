@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-28 06:37:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-28 06:37:38 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 66.249.67.55 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2012-01-28 06:37:38 W3SVC60 208.123.218.206 GET /register.php - 80 - 66.249.67.55 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-01-28 20:43:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-01-28 20:43:52 W3SVC60 208.123.218.206 GET /login.php - 80 - 78.159.121.210 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.1+(KHTML,+like+Gecko)+Chrome/6.0.427.0+Safari/534.1 200 0 0
+2012-01-28 20:44:13 W3SVC60 208.123.218.206 GET /login.php - 80 - 78.159.121.210 Opera/9.80+(Windows+NT+6.0;+U;+fi)+Presto/2.2.0+Version/10.00 200 0 0

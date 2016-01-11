@@ -1,0 +1,1247 @@
+#all {
+	width: 1410px;
+	min-width: 1410px;
+	position:absolute;	
+}
+
+a img {
+border: none;	
+}
+
+#gp_contain {
+width: 1360px;
+height: 1195px;
+top: 22px;
+left: 0;
+min-width: 1360px;
+z-index: 20;
+overflow: hidden;
+background: url(images/lakes.png) no-repeat scroll 228px 254px transparent;
+}
+
+#info_left_w, #info_right_w, #daily_w {
+width: 520px;
+z-index: 1000;
+display: none;
+position:fixed;
+top: 40px;	
+}
+
+#info_left, #info_right, #daily {
+width:540px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background: #000;
+min-height: 200px;
+color: #fff;
+padding: 0;
+margin-left: 10px;
+height: 710px;
+overflow: auto;
+}
+
+#info_right {
+width: 558px;	
+}
+
+#info_left_bg, #info_right_bg, #daily_pane_bg {
+padding: 0 10px 10px;
+width: auto;
+min-height: 698px;
+}
+
+/*#info_right_bg {
+padding: 0 10px 10px;
+width: auto;
+min-height: 698px;
+position:relative;
+top: -21px;
+}*/
+
+#info_right .residential {
+position: relative;
+top: 0px;	
+}
+
+#fave_map_div {
+z-index: 1000;
+position:absolute;
+display: none;
+top: 40px;
+left: 805px;
+}
+
+#fave_map_grow {
+z-index: 1000;
+height:1px;
+width:520px;
+position:absolute;
+display: none;
+top: 40px;
+left: 805px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background-color: #fff;
+padding: 0 10px 10px 10px;
+margin-left: 10px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#ref_grow {
+z-index: 1000;
+height:1px;
+width:1200px;
+position:absolute;
+display: none;
+left: 10%;
+top: 40px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background-color: #fff;
+padding: 0 10px 10px 10px;
+margin-left: 10px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#fave_map_wrap {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background: #000;
+min-height: 200px; 
+color: #fff;
+padding: 50px;
+margin-left: 10px; 
+width:440px;
+height: 579px;
+}
+
+#map_div {
+z-index: 1000;
+position:fixed;
+display: none;
+top: 40px;
+left: 0px;
+}
+
+#map_wrap {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background: #000;
+min-height: 200px; 
+color: #fff;
+padding: 50px;
+margin-left: 10px; 
+width:440px;
+height: 579px;
+}
+
+#info_left_grow {
+width:1px;
+z-index: 1000;
+position:fixed;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+height: 1px;
+background-color: #fff;
+padding: 0 10px 10px 10px;
+display: none;
+margin-left: 10px;
+top: 40px;
+left: 0;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#info_right_grow, #daily_grow {
+width:1px;
+z-index: 1000;
+position:fixed;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+height: 1px;
+background-color: #fff;
+padding: 10px;
+display: none;
+top: 655px;
+left: 1300px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+/*#info_right_w {
+width: 500px;
+z-index: 1000;
+position:fixed;
+top: 120px;
+left: 65%;	
+display: none;
+}*/
+
+/*#info_right {
+width:550px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+background: #000;
+color: #fff;
+padding: 0px;
+overflow: auto;
+max-height: 698px;
+height: 690px; 
+}*/
+
+#fave_list {
+z-index: 1000;
+position:absolute;
+display: none;
+top: 40px;
+}
+
+#fave_listtest {
+width:540px;	
+/* min-height: 200px;*/
+color: #000 !important;	
+min-height: 200px;
+padding: 0px;
+margin-left: 10px;
+height: 678px;
+overflow: auto;
+position:relative;
+top: 0px;
+left: 0px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371 !important;
+}
+
+#fave_bg {
+background: url(images/beigestripe.jpg) repeat-x scroll 0 0px #E5DBCF !important;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371 !important;
+min-height: 99.75%;
+}
+
+#fave_grow {
+width:520px;
+z-index: 1000;
+position:absolute;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+height: 1px;
+background-color: #fff;
+padding: 10px;
+display: none;
+top: 40px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#searchresults2 {
+width:500px;
+z-index: 1001;
+position:fixed;
+display: none;
+left: 805px;
+}
+
+#searchresults {
+z-index: 1000;
+position:fixed;
+display: none;
+left: 805px;
+top: 40px; 
+}
+
+#searchresults2 {
+width:538px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371 !important;
+background: url(images/beigestripe.jpg) repeat-x scroll 0 0px #E5DBCF !important;
+/* min-height: 200px;*/
+color: #f000;
+padding: 10px;
+overflow: auto;
+max-height: 659px;
+height: 659px; 
+}
+
+/*#searchresults2 td {
+padding-left: 10px;	
+font-size: 16px;
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+color: #fff;	
+margin: 0;
+padding: 0 10px 10px 10px;
+font-variant: small-caps;
+}*/
+
+#search {
+z-index: 1000;
+position:fixed;
+display: none;
+left: 805px;
+top: 40px; 
+}
+
+#search_grow {
+width:520px;
+z-index: 1000;
+position:fixed;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371;
+height: 1px;
+background-color: #fff;
+padding: 10px;
+display: none;
+top: 40px;
+left: 805px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#searchtest {
+width:540px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371 !important;
+background: url(images/beigestripe.jpg) repeat-x scroll 0 0px #E5DBCF !important;
+/* min-height: 200px;*/
+color: #000;
+padding: 10px;
+overflow: auto;
+max-height: 670px;
+height: 670px;
+}
+
+#search td {
+padding-left: 10px;	
+font-size: 18px;
+font-family: Helvetica, Arial, Sans-serif;
+color: #000;	
+margin: 0;
+padding: 6px 10px;
+font-variant: small-caps;
+text-align: center;
+font-weight: bold;
+font-style: italic;
+}
+
+#search input[type="text"] {
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding: 5px;
+border: 1px solid #000;
+width: 99%;	
+}
+
+#search select {
+width: 100%;	
+border: 1px solid #000;
+font-size: 14px;
+}
+
+.fave_table td {
+vertical-align: top;
+text-align: center;	
+}
+
+.fave_table p {
+font-size: 25px;
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+color: #000;	
+margin: 0;
+padding: 0 0 10px;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.fave_table p.price {
+font-size: 40px;
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+text-shadow: 0px 0px 3px #FFFFFF;
+color: #000;
+padding: 10px 0 10px 0;
+}
+
+#overlay {
+background: #000;
+z-index:21;
+position: absolute;
+top: 0;
+left: 0;
+display: none;
+opacity: .5;
+filter: alpha(opacity = 50);
+width: 100%;
+height: 100%;
+min-width: 1400px;
+}
+
+.dark_overlay {
+opacity: .8 !important;
+filter: alpha(opacity = 80) !important;	
+}
+
+#info_left h1, #info_right h1, #fave_list h1, #daily h1 {
+color: #e3dccf;
+font-size: 44px;
+font-weight:normal;
+letter-spacing:-1px;
+text-align:center;
+margin: 20px 0 10px 0;
+font-variant: normal;
+}
+
+#info_right h1 {
+margin-top: 30px;
+}
+
+#searchresults h1, #searchtest h1 {
+color: #000;
+font-size: 44px;
+font-weight:normal;
+letter-spacing:-1px;
+text-align:center;
+margin: 15px 0 10px 0;
+font-variant: normal;
+}
+
+#fave_listtest h1, #fave_listtest .home_number {
+color: #000;	
+}
+
+#info_left .home_number, #search .home_number {
+color: #fff;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: right;
+margin: 15px 70px 75px 0;
+font-variant: normal;
+}
+
+#searchresults .home_number, #fave_list .home_number {
+color: #000;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: right;
+margin: 15px 70px 75px 0;
+font-variant: normal;
+}
+
+#info_right .home_number, #daily .home_number {
+color: #fff;
+font-size: 24px;
+letter-spacing: -0.5px;
+text-align: right;
+margin: 15px 110px 10px 0;
+}
+
+#info_left #info_table {
+margin: 20px 0 0 0px;
+z-index: inherit;
+}
+
+#info_left #info_table td {
+vertical-align: top;
+}
+
+.helvtitle {
+font-family: helvetica, arial, sans-serif;
+font-variant: small-caps;
+font-size: 16px;
+margin-bottom: 5px;
+position:relative;
+font-weight: bold;
+font-style:italic;
+}
+
+.helv {
+font-family: helvetica, arial, sans-serif;
+font-size: 16px;
+margin-bottom: 10px;
+margin-top: 5px;
+}
+
+#info_left .didot {
+font-family: helvetica, arial, sans-serif;
+font-size: 16px;
+margin-bottom: 10px;
+margin-top: 5px;
+font-weight: bold;
+}
+
+.listing_table, #search_list .listing_table {
+width: 100%;
+background: url(images/listingbg3.jpg) repeat-x #CBBAA6;
+height: 62px;
+padding:10px 0px 10px 0px;
+clear: both;
+}
+
+.listing_table:hover, #search_list .listing_table:hover {
+background: url("images/listingbg_lh.jpg") repeat-x scroll 0 0 #ab9681 !important;
+cursor: pointer;
+cursor: hand;	
+}
+
+.listing_table tr td, #search_list .listing_table tr td {
+vertical-align: top;
+padding: 0 0 0 2px;
+font-family: helvetica, Arial, sans-serif;
+font-size: 22px;
+font-weight: normal;
+font-style: italic;
+text-align: center;
+}
+
+.backbtn {
+display: block;
+float:left;
+background: url(images/backbtn.png) no-repeat;
+width: 133px;
+height: 39px;
+text-decoration: none;
+margin: 18px 5px;
+}
+
+.nextbtn {
+display: block;
+float:right;
+background: url(images/nextbtn.png) no-repeat;
+width: 133px;
+height: 39px;
+text-decoration: none;
+margin: 18px 5px;
+}
+
+#info_right .comm .price_sort, #daily .comm .price_sort {
+width: 100%;
+background: url(images/black_bar.png) repeat-x;	
+padding: 2px 0;
+}
+
+#info_right .price_sort, #daily .price_sort {
+width: 100%;
+height: 21px;
+background: url(images/black_bar.png) repeat-x;	
+padding: 2px 0;
+}
+
+#info_right .price_sort p, #daily .price_sort p {
+float: left;	
+margin: 4px 50px 0 30px;
+font-size: 14px;
+text-align: center;
+width: 100px;
+}
+
+#info_right .comm {
+position: relative;
+}
+
+#info_right .listing_table .large_price, #search_list .listing_table .large_price, #daily .listing_table .large_price {
+font-size: 40px;
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+color: #000;
+font-weight: normal;
+font-style: normal;
+}
+
+/*DETAILED LISTING*/
+
+#list_detail_contain {
+width: 540px;	
+z-index: 1000;
+position:fixed;
+left: 805px;
+top: 40px;
+}
+
+#list_detail {
+background: #e3dccf;
+width:540px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #000;
+/* min-height: 200px;*/
+color: #000;
+padding: 10px;
+height: 698px;	
+font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+overflow: auto;
+font-size: 20px;
+text-align: center;
+}
+
+#list_detail th {
+font-variant: small-caps;
+font-weight: bold;
+font-style: italic;
+font-size: 24px;
+padding: 5px 0;
+vertical-align: middle;
+}
+
+#list_detail td {
+vertical-align: middle;
+padding: 5px 0;	
+}
+
+#list_detail div.top_info {
+width: 315px;
+text-align: center;
+float: left;	
+}
+
+#list_detail a {
+color: #000;
+text-decoration: none;
+}
+
+#list_detail p.price {
+font-family: "Lucida Calligraphy", Garamond, Georgia, serif;
+font-size: 40px;
+letter-spacing: -1px;
+font-weight: bold;
+font-style: italic;	
+margin: 0;
+}
+
+#list_detail p.subdiv_name {
+font-size: 22px;
+font-weight: bold;
+margin: 40px 0;
+}
+
+#list_detail div.address_info {
+width: 490px;
+clear: both;	
+}
+
+div.addtofave {
+text-align: center;	
+}
+
+div.addtofave a {
+text-decoration: none !important;
+font-weight: bold;
+}
+
+#list_detail table.listing_misc {
+float: left;
+}
+
+#list_detail table.listing_misc td {
+padding: 5px 10px;
+}
+
+#list_detail div.realtor_info {
+float: left;
+width: 190px;
+text-align: center;	
+}
+
+#list_detail div.realtor_info p {
+margin: 0;
+}
+
+/*HOVER EFFECTS FOR MYLISTANDSEARCH*/
+
+#mylist {
+width: 25px; 
+position: absolute; 
+top: 20px; 
+left: 96%; 
+z-index:100;	
+}
+
+#mylist:hover {
+width: 30px;	
+cursor: pointer;
+cursor: hand;
+}
+
+#mysearch {
+width: 25px; 
+position: absolute; 
+top: 440px; 
+left: 96%; 
+z-index:100;	
+}
+
+#mysearch:hover {
+width: 30px;
+cursor:pointer;
+cursor: hand;	
+}
+
+/*COMMERCIAL AND RESIDENTIAL STYLES*/
+
+.comm {
+background: url(images/blackstripe.png) repeat-x scroll 0 0px #000 !important;
+/* min-height: 200px;*/
+color: #fff !important;
+}
+
+.comm .large_price {
+color: #000;
+}
+
+.comm table.comm .large_price {
+color: #fff !important;	
+}
+
+#info_left .comm {
+background: url(images/blackstripe.png) repeat-x scroll 0 0px #000 !important;
+position: relative;
+top: -20px;
+}
+
+#info_right .comm {
+background: url(images/blackstripe.png) repeat-x scroll 0 0px #000 !important;
+}
+
+#info_right .comm table.comm, #daily .comm table.comm {
+background: url("images/listingbg.jpg") repeat-x scroll 0 0 #373737 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+#info_right table.comm, #daily table.comm {
+background: url("images/listingbg.jpg") repeat-x scroll 0 0 #373737 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+#info_right table.comm:hover, #daily table.comm:hover {
+background: url("images/listingbg_dh.jpg") repeat-x scroll 0 0 #131313 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+#info_left .comm h1, #info_right .comm h1 {
+padding: 20px 0 0;	
+}
+
+#info_right .comm h1 {
+position: relative;
+top: 10px;	
+}
+
+#info_right .comm hr {
+margin-top: 19px;	
+}
+
+table.comm:hover {
+background: url("images/listingbg_dh.jpg") repeat-x scroll 0 0 #131313 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+#search_list .listing_table:hover, listing_table:hover {
+background: url("images/listingbg_lh.jpg") repeat-x scroll 0 0 #ab9681 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+.residential {
+border: 1px solid #747371 !important;
+background: url(images/beigestripe.jpg) repeat-x scroll 0 0px #E5DBCF !important;
+/* min-height: 200px;*/
+color: #000 !important;	
+}
+
+.residential h1 {
+color: #000 !important;	
+}
+
+.residential .home_number {
+color: #000 !important;	
+}
+
+.residential .price_sort, #daily .price_sort {
+background: url("images/beige_bar.png") repeat-x scroll 0 0 transparent	!important;
+color: #fff !important;
+}
+
+table.listing_table {
+background: url("images/listingbg3.jpg") repeat-x scroll 0 0 #C8B6A2 !important;
+cursor: pointer;
+cursor: hand;	
+}
+
+table.comm {
+background: url("images/listingbg.jpg") repeat-x scroll 0 0 #343434 !important;
+cursor: pointer;
+cursor: hand;
+}
+
+table.comm h1 {
+color: #fff;	
+}
+
+.listing_table:hover {
+background: url("images/listingbg_lh.jpg") repeat-x scroll 0 0 #a99580 !important;
+}
+
+/*TWITTER FEED*/
+
+#twitter_m {
+width: 400px;
+height: auto;
+max-height: 400px;
+overflow: auto;
+background: #000;	
+z-index: 5000;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+position:absolute;
+top: 10%;
+border: 1px solid #fff;
+display: none;
+}
+
+#twitter_m ul {
+padding: 10px;	
+}
+
+#twitter_m li {
+padding: 5px 0;
+border-bottom: 1px solid #ccc;
+list-style: none;	
+color: #fff;
+}
+
+#twitter_m li a {
+color: #ccc;
+text-decoration: none;	
+}
+
+/*SCHOOL BUTTONS*/
+
+.btn_wrap {
+float: left;
+margin: 1px 3px 5px;
+}
+
+a.sc_btn {
+background: url(images/sc_btn.png) no-repeat scroll top left transparent;
+width: 140px;
+padding: 5px 0px 5px 5px;	
+float: left;
+font-family: garamond, georgia, 'Times New Roman', times, sans-serif;
+font-size: 15px;
+color: #fff;
+font-weight: bold;
+text-align:center;
+text-decoration: none !important;
+text-shadow: #000 0px 0px 1px;	
+}
+
+a.sc_btn span.sc_btn2 {
+font-size: 11px;	
+}
+
+a.sc_btn:hover {
+color: #CCC;
+}
+
+.hover:hover {
+cursor: pointer;
+cursor: hand;	
+}
+
+/*SCHOOL BUTTONS*/
+
+div.school {
+background: url(images/school_btn.png) no-repeat;
+color: #fff;
+width: 175px;
+float:left;
+padding: 5px 15px;
+}
+
+div.school p {
+margin: 0;
+font-size: 15px;
+font-family: garamond, Georgia, "Times New Roman", Times, serif;
+font-weight: bold;	
+}
+
+div.school:hover {
+color: #ccc;	
+cursor: pointer;
+cursor: hand;
+}
+
+div.school:active {
+background: url(images/school_btn_active.png) no-repeat;	
+}
+
+/*BACK BTN*/
+
+.back_btn {
+background: url(images/back.png) no-repeat;	
+text-decoration: none !important;
+}
+
+.back_btn2 {
+background: url(images/back2.png) no-repeat;
+text-decoration: none !important;	
+}
+
+a.realtor_name {
+color: inherit;
+text-decoration: none;	
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.back_btn:hover, #favelinks:hover, .busroute:hover, .forward_btn:hover, .back_btn2:hover, a.realtor_name:hover, a.logo_link:hover, #rimage:hover, #closebtn3b:hover, #closebtn3a:hover, #closebtn:hover, #closebtn2:hover, #closebtn4:hover, #closebtn3c:hover, .fave_table:hover, .flashlink, .services_link:hover {
+cursor: pointer;
+cursor: hand;	
+}
+
+.back_btn2:active {
+background: url(images/back2_active.png) no-repeat;
+	}
+
+.back_btn:active {
+background: url(images/back_active.png) no-repeat;	
+}
+
+.forward_btn {
+background: url(images/fwd_btn.png) no-repeat;	
+text-decoration: none !important;
+}
+
+.forward_btn:active {
+background: url(images/fwd_btn_active.png) no-repeat;	
+}
+
+#favlinks {
+background: url(images/fave.png) no-repeat;	
+}
+
+#favlinks:active {
+background: url(images/fave_active.png) no-repeat;	
+}
+
+.busroute {
+background: url(images/bus.png) no-repeat;
+display: block;
+width: 38px;
+height: 38px;	
+text-decoration: none;
+clear: both;
+}
+
+.busroute:active {
+background: url(images/bus_active.png) no-repeat;	
+}
+
+#twitter_table {
+position: absolute;
+top: 818px;
+left: 552px;	
+}
+
+#services_contain {
+width: 1214px;	
+z-index: 1000;
+position:fixed;
+left: 10%;
+top: 40px;
+border: 1px solid #747371 !important;
+background: url(images/beigestripe.jpg) repeat-x scroll 0 0px #E5DBCF !important;
+color: #000;
+padding: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #000;
+text-align: center;
+display: none;
+}
+
+#services_grow {
+width: 1px;	
+z-index: 1000;
+position:fixed;
+left: 10%;
+top: 40px;
+display: none;
+height:661px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #747371 !important;
+background-color: #fff;
+padding: 10px;
+opacity: 0.1;
+filter:alpha(opacity=10);
+}
+
+#services {
+display: block !important;	
+}
+
+#services p.title {
+font-family: "Geneva CY", Geneva, Verdana, sans-serif;
+font-size: 48px;
+color: #000;
+margin: 0;	
+}
+
+#services td, #services th {
+font-family: papyrus, "myriad pro", helvetica, arial, sans-serif;
+font-size: 25px;
+font-weight: normal;
+line-height: 36px;
+border-right: 3px solid #000;
+padding: 5px 0px;
+min-width: 100px;
+max-width: 100px;
+width: 100px;
+}
+
+#services th p {
+font-weight: 600;
+text-decoration: underline;
+}
+
+#services td table td, #services td table th {
+border-right: none;	
+}
+
+#services p.recc_by {
+font-family: "Orator STD", Orator, Monaco, "Courier New", monospace;
+font-size: 24px;
+margin: 5px 0 0 0;	
+font-variant: small-caps;
+}
+
+#services .serv_break {
+border-bottom: 3px solid #000;	
+min-height: 170px;
+}
+
+.del_fav {
+color: #ff0000;
+font-family: helvetica, arial, sans-serif;
+font-size: 12px;
+text-decoration: none;	
+position: relative;
+top: -5px;
+padding-left: 5px;
+}
+
+.a_from, .a_to {
+width: 110px;
+float: left;
+text-align: center;
+margin: 0;
+}
+
+.large_price p {
+margin: 0;	
+}
+
+table.comm .large_price p {
+color: #fff !important;	
+}
+
+.lt_size {
+font-family: helvetica,Arial,sans-serif;
+font-size: 22px;
+font-style: italic;
+font-weight: normal;	
+color: #000;
+padding-top: 22px;
+}
+
+.residential .listing_table .lt_size {
+color: #000;	
+}
+
+table.comm .lt_size {
+color: #fff !important;	
+}
+
+td.search_side {
+height: 38px;
+min-height: 38px;	
+}
+
+.serv_num {
+font-size: 13px;	
+font-family: "Geneva CY",Geneva,Verdana,sans-serif;
+letter-spacing: -1px;
+}
+
+.serv_icon {
+max-width: 115px;
+max-height: 100px;	
+margin: 5px;
+border: none;
+}
+
+.scrollable {
+height: 385px;
+overflow: auto;	
+width: 100%;
+}
+
+table.services_link {
+max-width: 177px;	
+margin: 0 auto;
+}
+
+.reg_symbol {
+position: relative;
+top: -15px;
+font-size: 15px;	
+}
+
+.serv_name {
+font-size: 20px !important;	
+padding: 5px !important;
+}
+
+#grid_box {
+display: none;
+position: fixed;
+top: 100px;
+/* left: 125px; */
+z-index: 1200;	
+}
+
+
+.selectedphoto {
+border: 10px solid #000;	
+}
+
+#referral {
+width: 1200px;
+background: #e7e2d8;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 2px solid #000;
+position: fixed;
+left: 10%;
+top: 40px;
+z-index: 1000;
+}
+
+.beige_band {
+background: #CBBAA6;
+margin-top: 25px;
+}
+
+.beige_band  table td {
+vertical-align: middle;
+padding: 10px;	
+}
+
+.refitem {
+float: left;
+padding: 45px 95px;	
+}
+
+.refitem td {
+text-align: center;
+font-family: "BlairMdITC TT", Helvetica, Arial, Sans-serif;
+font-variant: small-caps;
+font-size: 35px;	
+}
+
+#list_detail #houseimg {
+border: 1px solid #E3DCCF;	
+}
+
+#list_detail #houseimg:hover {
+border: 1px solid #000;	
+}
+
+.settings_btn {
+padding: 16px 21px;	
+text-decoration: none;
+}
+
+.settings_btn:hover {
+background: url(images/glowbg.png) no-repeat;
+}
+
+.comm table.listing_table {
+color: #000;	
+}
+
+.comm table.comm {
+color: #fff;	
+}
+
+.twtr-timeline {
+height: 70px !important;	
+}
+
+.realtor_info, a.realtor_info {
+font-size: 18px;
+font-weight: normal;
+font-style: italic;
+font-variant: small-caps;
+text-decoration: none;
+}
+
+#subdivsearch {
+font-size: 18px;
+font-weight:bold;
+text-align: center;	
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+#search select {
+font-size: 18px;	
+}
+
+/*DAILY TABLE*/
+
+#daily {
+padding: 0 10px 10px;
+width: 529px;
+min-height: 650px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}

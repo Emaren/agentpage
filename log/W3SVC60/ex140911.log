@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-09-11 02:35:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-09-11 02:35:10 W3SVC60 208.123.218.206 GET /robots.txt - 80 - 192.99.39.80 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 404 0 2
+2014-09-11 02:35:10 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.99.39.80 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-09-11 14:57:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2014-09-11 14:57:01 W3SVC60 208.123.218.206 GET /wp-login.php - 80 - 84.240.9.6 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/22.0.1229.79+Safari/537.4 404 0 0
+2014-09-11 14:57:02 W3SVC60 208.123.218.206 GET /administrator/ - 80 - 84.240.9.6 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/22.0.1229.79+Safari/537.4 404 0 2
+2014-09-11 14:57:02 W3SVC60 208.123.218.206 GET /admin.php - 80 - 84.240.9.6 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/22.0.1229.79+Safari/537.4 404 0 0

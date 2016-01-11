@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-09-18 00:14:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-09-18 00:14:42 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:16:29 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:21:26 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:24:03 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:26:12 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:31:07 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:33:36 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:40:10 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:41:27 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:44:49 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+2011-09-18 00:46:37 W3SVC60 208.123.218.206 GET /newfeed.php - 80 - 205.206.17.2 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2011-09-18 18:56:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2011-09-18 18:56:10 W3SVC60 208.123.218.206 GET /GP_city8/style.css - 80 - 64.178.128.233 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/14.0.835.163+Safari/535.1 304 0 0
+2011-09-18 18:56:10 W3SVC60 208.123.218.206 GET /ajax.js - 80 - 64.178.128.233 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/14.0.835.163+Safari/535.1 304 0 0
+2011-09-18 18:56:15 W3SVC60 208.123.218.206 GET /GP_city8/map20a.php - 80 - 64.178.128.233 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_1)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/14.0.835.163+Safari/535.1 200 0 64

@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-05-30 19:46:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /login.php - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/loginblurb.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/myrealtornow_gp_title.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/loginbg.jpg - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/emailimg.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/login_blurb.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/city_btn.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/new_login.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/county_btn.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /images/passwordimg.png - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:14 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 404 0 2
+2012-05-30 19:46:19 W3SVC60 208.123.218.206 POST /login.php - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:19 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 404 0 2
+2012-05-30 19:46:26 W3SVC60 208.123.218.206 GET /login.php - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 200 0 0
+2012-05-30 19:46:26 W3SVC60 208.123.218.206 GET /favicon.ico - 80 - 184.70.78.190 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_7_3)+AppleWebKit/536.5+(KHTML,+like+Gecko)+Chrome/19.0.1084.52+Safari/536.5 404 0 2

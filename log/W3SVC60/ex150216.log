@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-16 07:06:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-02-16 07:06:57 W3SVC60 208.123.218.206 GET /login.php - 80 - 144.76.178.233 Mozilla/5.1+(compatible;+DBot/7.0;++http://getdownload.ws) 200 0 0
+2015-02-16 07:06:57 W3SVC60 208.123.218.206 GET /login.php - 80 - 144.76.178.233 Mozilla/5.1+(compatible;+DBot/7.0;++http://getdownload.ws) 200 0 64
+2015-02-16 07:06:57 W3SVC60 208.123.218.206 GET /login.php - 80 - 144.76.178.233 Mozilla/5.1+(compatible;+DBot/7.0;++http://getdownload.ws) 200 0 64
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-16 13:21:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2015-02-16 13:21:57 W3SVC60 208.123.218.206 GET /login.php - 80 - 192.163.213.15 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.1.13)+Gecko/20080311+Firefox/2.0.0.13 200 0 0
